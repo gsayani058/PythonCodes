@@ -2,6 +2,6 @@
 <br>
 Author - Sayani Ghosh
 <br>
-Python Programming
+Python Programs
 <br>
-Basic to Intermediate based on different module
+Basic to Intermediate, based on different module
